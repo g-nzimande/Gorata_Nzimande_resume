@@ -1,0 +1,96 @@
+* {
+    padding: 10px;
+    padding-right: 10px;
+    font-family: monospace;
+}
+
+body {
+    color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+}
+
+h4 {
+    font-style: italic;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+footer {
+    text-align: center;
+}
+
+/*************HOVER STYLING FOR HEADINGS AND PARAGRAPHS************/
+
+ul {
+    font-size: 16px;
+}
+
+h1:hover {
+    color: orangered;
+}
+
+h2:hover {
+    color: orange;
+}
+
+h4:hover {
+    color: paleturquoise;
+}
+
+p:hover {
+    color: palegoldenrod ;
+}
+
+ul:hover {
+    color: palegoldenrod 
+}
+
+a:hover {
+    color: orangered;
+}
+
+/*************SOCIAL BUTTONS STYLING************/
+
+.fa {
+    
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: darkslategray;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: darkslategray;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: darkslategray;
+    color: white;
+  }
+
+  .fa-github {
+    background: darkslategray;
+    color: white;
+  }
+
+    
